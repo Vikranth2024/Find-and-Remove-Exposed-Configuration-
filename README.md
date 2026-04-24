@@ -1,1 +1,0 @@
-# Find-and-Remove-Exposed-Configuration-
